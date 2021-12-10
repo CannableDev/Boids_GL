@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl sword
+Ns 198.315053
+Ka 0.681818 0.681818 0.681818
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Blade_Uncommon2_Blade_AlbedoTransparency.png
+map_Ks Blade_Uncommon2_Blade_MetallicSmoothness.png
